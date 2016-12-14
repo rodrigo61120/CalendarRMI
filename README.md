@@ -22,6 +22,7 @@ java clientDriver ‘name of user’
 
 
 ** replace ‘name of user’ with a name you want to give to the user.
+
 ** you can run as many clients as you want. 
 
 
